@@ -60,7 +60,7 @@ a = {'name': 'pey', 'phone': '0119993323', 'birth': '1118'}
 a.keys()
 print(a.keys())
 
-#for k in a.keys():    리스트를 사용하는 것과 차이가 없지만, 리스트 고유의 append, insert, pop, remove, sort함수는 사용 불가
+#for k in a.keys():   리스트를 사용하는 것과 차이가 없지만, 리스트 고유의 append, insert, pop, remove, sort함수는 사용 불가
 #    print(k)
 
 # dict_keys 객체를 리스트로 변환하려면 다름과 같이 하면 된다.
