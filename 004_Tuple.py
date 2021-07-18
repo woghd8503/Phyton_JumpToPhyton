@@ -43,6 +43,3 @@ print(t2 * 3)
 t1 = (1, 2, 'a', 'b')
 len(t1)
 print(len(t1))
-
-
-
